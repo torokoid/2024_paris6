@@ -183,7 +183,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～最後にBruceからの鉄道復旧状況報告～～～<br><br></span></h3>
 
-<a href="line4.png" data-lightbox="abc"><img src="line4.png" alt="サンプル画像" width="900" /></a>
+<a href="line5.png" data-lightbox="abc"><img src="line5.png" alt="サンプル画像" width="900" /></a>
 
 <!--
 <div style="background-color:rgb(255,255,255,0.8);">
