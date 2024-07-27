@@ -146,13 +146,19 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
 
-
-
-<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
-
-
+<a href="20240727_025.JPG" data-lightbox="abc"><img src="20240727_025.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_026.JPG" data-lightbox="abc"><img src="20240727_026.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_027.JPG" data-lightbox="abc"><img src="20240727_027.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_028.JPG" data-lightbox="abc"><img src="20240727_028.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_029.JPG" data-lightbox="abc"><img src="20240727_029.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_030.JPG" data-lightbox="abc"><img src="20240727_030.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～パリ行きのバスは順調。SAに一回だけ停車。電車が止まっているので渋滞が予想されたが、定刻22:55パリ郊外のバス停に到着。～～～<br><br></span></h3>
+
+
+
+<h3><span class="yellow"><br>～～～地下鉄でホテル最寄り駅へ～～～<br><br></span></h3>
+
 
 
 <div style="background-color:rgb(255,255,255,0.8);">
