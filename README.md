@@ -155,10 +155,21 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～パリ行きのバスは順調。SAに一回だけ停車。電車が止まっているので渋滞が予想されたが、定刻22:55パリ郊外のバス停に到着。～～～<br><br></span></h3>
 
-
+<a href="20240727_031.JPG" data-lightbox="abc"><img src="20240727_031.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_032.JPG" data-lightbox="abc"><img src="20240727_032.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_033.JPG" data-lightbox="abc"><img src="20240727_033.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_034.JPG" data-lightbox="abc"><img src="20240727_034.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_035.JPG" data-lightbox="abc"><img src="20240727_035.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_036.JPG" data-lightbox="abc"><img src="20240727_036.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_037.JPG" data-lightbox="abc"><img src="20240727_037.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_038.JPG" data-lightbox="abc"><img src="20240727_038.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_039.JPG" data-lightbox="abc"><img src="20240727_039.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～地下鉄でホテル最寄り駅へ～～～<br><br></span></h3>
 
+
+
+<h3><span class="yellow"><br>～～～心配した大家さんが寝ないでチャットしてくれました～～～<br><br></span></h3>
 
 
 <div style="background-color:rgb(255,255,255,0.8);">
