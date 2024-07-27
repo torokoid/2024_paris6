@@ -167,11 +167,22 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h3><span class="yellow"><br>～～～地下鉄でホテル最寄り駅へ～～～<br><br></span></h3>
 
-
+<a href="20240727_040.JPG" data-lightbox="abc"><img src="20240727_040.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_041.JPG" data-lightbox="abc"><img src="20240727_041.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_042.JPG" data-lightbox="abc"><img src="20240727_042.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_043.JPG" data-lightbox="abc"><img src="20240727_043.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_044.JPG" data-lightbox="abc"><img src="20240727_044.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_045.JPG" data-lightbox="abc"><img src="20240727_045.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_046.JPG" data-lightbox="abc"><img src="20240727_046.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_047.JPG" data-lightbox="abc"><img src="20240727_047.JPG" alt="サンプル画像" width="900" /></a>
 
 <h3><span class="yellow"><br>～～～心配した大家さんが寝ないでチャットしてくれました～～～<br><br></span></h3>
 
+<a href="20240727_048.JPG" data-lightbox="abc"><img src="20240727_048.JPG" alt="サンプル画像" width="900" /></a>
+<a href="line4.png" data-lightbox="abc"><img src="line4.png" alt="サンプル画像" width="900" /></a>
 
+
+<!--
 <div style="background-color:rgb(255,255,255,0.8);">
 <h3><!--<span class="yellow">--><br>ナデシコの試合をスタジアム観戦で偶然隣りの席が富士ゼロックス時代の先輩。<br>WCスタジアム観戦100試合以上の有名人。<br>
 私の次女は仕事でWEリーグのイベント担当。フリーキックを決めた、藤野あおば。<br>フリートークさせると全く話せないらしい<br>
@@ -191,9 +202,9 @@ MVP清家が全く目立ってないのを残念がっていた。<br>
 試合の後、食事する両サポーターの姿も乏しい。<br>
 明日は、パリに移動してオープニングセレモニーをセーヌ川沿いのスタート地点あたりで見ます。<br>
 翌日、ボルドーに戻り、日本対リマ観戦。その後、ナントで日本男女に試合スタジアム観戦。<br><br><!--</span>--></h3></div>
+-->
 
 
-<h2><span class="yellow"><marquee behavior="left">!!!試合後、Nantesの駅近くで夕食後に散歩!!!</marquee></span></h2>
 
 
 
