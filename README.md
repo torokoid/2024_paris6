@@ -122,18 +122,37 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
 
+<a href="20240727_004.JPG" data-lightbox="abc"><img src="20240727_004.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_005.JPG" data-lightbox="abc"><img src="20240727_005.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_006.JPG" data-lightbox="abc"><img src="20240727_006.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_007.JPG" data-lightbox="abc"><img src="20240727_007.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_008.JPG" data-lightbox="abc"><img src="20240727_008.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_009.JPG" data-lightbox="abc"><img src="20240727_009.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_010.JPG" data-lightbox="abc"><img src="20240727_010.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_011.JPG" data-lightbox="abc"><img src="20240727_011.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_012.JPG" data-lightbox="abc"><img src="20240727_012.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_013.JPG" data-lightbox="abc"><img src="20240727_013.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_014.JPG" data-lightbox="abc"><img src="20240727_014.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_015.JPG" data-lightbox="abc"><img src="20240727_015.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_016.JPG" data-lightbox="abc"><img src="20240727_016.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_017.JPG" data-lightbox="abc"><img src="20240727_017.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_018.JPG" data-lightbox="abc"><img src="20240727_018.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_019.JPG" data-lightbox="abc"><img src="20240727_019.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_020.JPG" data-lightbox="abc"><img src="20240727_020.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_021.JPG" data-lightbox="abc"><img src="20240727_021.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_022.JPG" data-lightbox="abc"><img src="20240727_022.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_023.JPG" data-lightbox="abc"><img src="20240727_023.JPG" alt="サンプル画像" width="900" /></a>
+<a href="20240727_024.JPG" data-lightbox="abc"><img src="20240727_024.JPG" alt="サンプル画像" width="900" /></a>
+
+<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
+
 
 
 <h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
 
 
 
-<h2><span class="yellow"><marquee behavior="left">!!! Nantes到着 !!!</marquee></span></h2>
-
-
-
-<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
-
+<h3><span class="yellow"><br>～～～パリ行きのバスは順調。SAに一回だけ停車。電車が止まっているので渋滞が予想されたが、定刻22:55パリ郊外のバス停に到着。～～～<br><br></span></h3>
 
 
 <div style="background-color:rgb(255,255,255,0.8);">
