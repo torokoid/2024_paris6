@@ -120,7 +120,11 @@ background-color: rgba(0, 225, 0, 0.6);
 
 <a href="line3.png" data-lightbox="abc"><img src="line3.png" alt="サンプル画像" width="900" /></a>
 
-<h2><span class="yellow"><marquee behavior="left">!!! 早朝BordeauxからNantesへ電車移動 !!!</marquee></span></h2>
+<h2><span class="yellow"><marquee behavior="left">!!! （ナントで足止めされたので）荷物を預けて駅近くのお城へ。その後、買い物。 !!!</marquee></span></h2>
+
+
+
+<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
 
 
 
@@ -128,7 +132,7 @@ background-color: rgba(0, 225, 0, 0.6);
 
 
 
-<h3><span class="yellow"><br>～～～ホテルにチェックイン後、スタジアムへ～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～14時にアパートの前で鍵を受け取る予定が間に合わない。鍵をセキュリティボックスに入れるので写真で手順を送ってもらいました～～～<br><br></span></h3>
 
 
 
