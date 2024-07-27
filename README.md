@@ -181,7 +181,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240727_048.JPG" data-lightbox="abc"><img src="20240727_048.JPG" alt="サンプル画像" width="900" /></a>
 <a href="line4.png" data-lightbox="abc"><img src="line4.png" alt="サンプル画像" width="900" /></a>
 
-<p><h2><a href="[Booking.com](https://www.booking.com/index.ja.html?label=gen173nr-1BCAEoggI46AdIM1gEaHWIAQGYARW4AQfIAQ3YAQHoAQGIAgGoAgO4Auf_lbUGwAIB0gIkOWI5MzQ0NDEtOGIxYS00ZmQ3LTkwMTUtMjU2NzNmM2Y4ZjUy2AIF4AIB&sid=8859fd1d3e5d1bd9dd48993f4a228363&keep_landing=1&sb_price_type=total&)" target="_blank">今回宿の予約で使ったサイト、Booking.comへのリンク</a></h2></p>
+<p><h2><a href="https://www.booking.com/index.ja.html?label=gen173nr-1BCAEoggI46AdIM1gEaHWIAQGYARW4AQfIAQ3YAQHoAQGIAgGoAgO4Auf_lbUGwAIB0gIkOWI5MzQ0NDEtOGIxYS00ZmQ3LTkwMTUtMjU2NzNmM2Y4ZjUy2AIF4AIB&sid=8859fd1d3e5d1bd9dd48993f4a228363&keep_landing=1&sb_price_type=total&" target="_blank">今回宿の予約で使ったサイト、Booking.comへのリンク</a></h2></p>
 
 <h3><span class="yellow"><br>～～～最後にBruceからの鉄道復旧状況報告～～～<br><br></span></h3>
 
