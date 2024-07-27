@@ -116,7 +116,7 @@ background-color: rgba(0, 225, 0, 0.6);
 <a href="20240727_002.JPG" data-lightbox="abc"><img src="20240727_002.JPG" alt="サンプル画像" width="900" /></a>
 <a href="20240727_003.JPG" data-lightbox="abc"><img src="20240727_003.JPG" alt="サンプル画像" width="900" /></a>
 
-<h3><span class="yellow"><br>～～～30期LINEでの会話～～～<br><br></span></h3>
+<h3><span class="yellow"><br>～～～大泉高校30期卒業同期会LINEでの会話～～～<br><br></span></h3>
 
 <a href="line3.png" data-lightbox="abc"><img src="line3.png" alt="サンプル画像" width="900" /></a>
 
